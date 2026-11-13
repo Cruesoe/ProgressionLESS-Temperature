@@ -29,6 +29,13 @@
       </operations>
     </match>
   </Operation>
+  <!-- Hide the radiator towel rail (its category comes from the radiator base) -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="RadiatorTowelRail"]</xpath>
+    <value>
+      <designationCategory />
+    </value>
+  </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ResearchProjectDef[defName="LogBoilers"]/label</xpath>
     <value>
