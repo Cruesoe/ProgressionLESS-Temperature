@@ -61,6 +61,15 @@
 
 
 
+                <Operation Class="PatchOperationReplace">
+                  <xpath>/Defs/ThingDef[defName="VTE_WallMountedHeater"]/researchPrerequisites</xpath>
+                  <value>
+                    <researchPrerequisites Inherit="False">
+                      <li>AirConditioning</li>
+                    </researchPrerequisites>
+                  </value>
+                </Operation>
+
                 <Operation Class="PatchOperationConditional">
                   <xpath>/Defs/ThingDef[defName="VTE_LargeCeilingFan"]/researchPrerequisites</xpath>
                   <match Class="PatchOperationReplace">
