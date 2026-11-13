@@ -10,7 +10,6 @@
     <li IfModActive="scpchemfuel.appliances">Common/Mods and Shit/Appliances Expanded</li>
     <li IfModActive="VanillaExpanded.HelixienGas">Common/Mods and Shit/VE Helixien Gas</li>
     <li IfModActive="vanillaexpanded.temperature">Common/Mods and Shit/VE Temperature</li>
-    <li IfModActive="vanillaexpanded.temperature,Dubwise.DubsBadHygiene">Common/Mods and Shit/VTE or DBH</li>
   </v1.6>
   <v1.7>
     <li>/</li>
@@ -23,6 +22,5 @@
     <li IfModActive="scpchemfuel.appliances">Common/Mods and Shit/Appliances Expanded</li>
     <li IfModActive="VanillaExpanded.HelixienGas">Common/Mods and Shit/VE Helixien Gas</li>
     <li IfModActive="vanillaexpanded.temperature">Common/Mods and Shit/VE Temperature</li>
-    <li IfModActive="vanillaexpanded.temperature,Dubwise.DubsBadHygiene">Common/Mods and Shit/VTE or DBH</li>
   </v1.7>
 </loadFolders>
