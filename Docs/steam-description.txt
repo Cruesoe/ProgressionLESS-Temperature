@@ -1,0 +1,41 @@
+[b]All the Progression goodness, less research.[/b]
+
+[i]This is a fork of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3253283971]Progression: Temperature[/url] by ferny. Huge thanks to ferny for the original mod and all the Progression work this builds on. For a really good modpack, check out [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3521297585]The Progression Modpack[/url].[/i]
+
+[h2]Features[/h2]
+[list]
+[*]Integrates temperature mods into vanilla progression, so heaters, coolers and fans unlock alongside vanilla's air conditioning.
+[*]Hides duplicate temperature buildings when several mods overlap, such as Dubs Bad Hygiene's air conditioning with VE Temperature, or Replace Stuff's over-wall coolers and vents.
+[*]Gives clearer names to some buildings, such as the standing heater, the solar water heater and the geothermal water heater.
+[/list]
+
+[h2]Why "LESS"?[/h2]
+Progression: Temperature adds up to [b]7 research projects[/b] depending on your mods. This fork cuts that to [b]at most 3[/b]:
+[list]
+[*][b]Gas heater[/b] and [b]Gas cooler[/b] (Industrial, with VE Helixien Gas)
+[*][b]Chemfuel heater[/b] (Industrial, with Appliances Expanded and VE Chemfuel)
+[/list]
+Everything else unlocks with the research it already builds on:
+[list]
+[*]Ceiling fans: [b]Air conditioning[/b]
+[*]Industrial cooler and industrial heater: VE Temperature's HVAC, now called [b]Industrial climate control[/b]
+[*]Solar water heater: Dubs Bad Hygiene's [b]Central heating[/b]
+[/list]
+Everything stays in the same era, and still needs the other research it did before.
+
+[h2]Compatibility[/h2]
+Keeps all of the original's mod support:
+[list]
+[*]Vanilla Temperature Expanded
+[*]Dubs Bad Hygiene
+[*]Vanilla Helixien Gas Expanded
+[*]Appliances Expanded with Vanilla Chemfuel Expanded
+[*]Vanilla Factions Expanded - Classical
+[*]Replace Stuff and Replace Stuff - Continued
+[*]ReBuild: Doors and Corners
+[*]Erin's Cottage Collection
+[/list]
+
+[b]Replaces the original. Don't use both.[/b]
+
+[b]Switching mid-game isn't recommended.[/b] Many of the original's research projects are merged or removed, so swapping Progression: Temperature for this fork in an existing save can lose research progress. Start a new game when you switch.
