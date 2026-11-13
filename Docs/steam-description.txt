@@ -5,7 +5,7 @@
 [h2]Features[/h2]
 [list]
 [*]Integrates temperature mods into vanilla progression, so heaters, coolers and fans unlock alongside vanilla's air conditioning.
-[*]Hides duplicate temperature buildings when several mods overlap, such as Dubs Bad Hygiene's air conditioning with VE Temperature, or Replace Stuff's over-wall coolers and vents.
+[*]Hides duplicate temperature buildings when several mods overlap, such as Dubs Bad Hygiene's air conditioning with VE Temperature.
 [*]Gives clearer names to some buildings, such as the standing heater, the solar water heater and the geothermal water heater.
 [/list]
 
@@ -24,14 +24,13 @@ Everything else unlocks with the research it already builds on:
 Everything stays in the same era, and still needs the other research it did before.
 
 [h2]Compatibility[/h2]
-Keeps all of the original's mod support:
+Supports:
 [list]
 [*]Vanilla Temperature Expanded
 [*]Dubs Bad Hygiene
 [*]Vanilla Helixien Gas Expanded
 [*]Appliances Expanded with Vanilla Chemfuel Expanded
 [*]Vanilla Factions Expanded - Classical
-[*]Replace Stuff and Replace Stuff - Continued
 [*]ReBuild: Doors and Corners
 [*]Erin's Cottage Collection
 [/list]

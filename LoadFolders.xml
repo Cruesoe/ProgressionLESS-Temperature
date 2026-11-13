@@ -3,7 +3,6 @@
     <li>/</li>
     <li>Common</li>
     <li IfModActive="Dubwise.DubsBadHygiene">Common/Mods and Shit/Dubs Hygiene</li>
-    <li IfModActive="uuugggg.replacestuff,Memegoddess.ReplaceStuff">Common/Mods and Shit/Replace Stuff</li>
     <li IfModActive="OskarPotocki.VFE.Classical">Common/Mods and Shit/VFE Classical</li>
     <li IfModActive="rebuild.cotr.doorsandcorners">Common/Mods and Shit/Rebuild DAC</li>
     <li IfModActive="erin.cottagecollection">Common/Mods and Shit/Erin Cottage Collection</li>
@@ -15,7 +14,6 @@
     <li>/</li>
     <li>Common</li>
     <li IfModActive="Dubwise.DubsBadHygiene">Common/Mods and Shit/Dubs Hygiene</li>
-    <li IfModActive="uuugggg.replacestuff,Memegoddess.ReplaceStuff">Common/Mods and Shit/Replace Stuff</li>
     <li IfModActive="OskarPotocki.VFE.Classical">Common/Mods and Shit/VFE Classical</li>
     <li IfModActive="rebuild.cotr.doorsandcorners">Common/Mods and Shit/Rebuild DAC</li>
     <li IfModActive="erin.cottagecollection">Common/Mods and Shit/Erin Cottage Collection</li>
