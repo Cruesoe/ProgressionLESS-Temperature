@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Passive cooler needs Carpentry -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ResearchProjectDef[defName="PassiveCooler"]/prerequisites</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ResearchProjectDef[defName="PassiveCooler"]/prerequisites</xpath>
+      <value>
+        <li>Ferny_Column</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ResearchProjectDef[defName="PassiveCooler"]</xpath>
+      <value>
+        <prerequisites>
+          <li>Ferny_Column</li>
+        </prerequisites>
+      </value>
+    </nomatch>
+  </Operation>
+</Patch>
