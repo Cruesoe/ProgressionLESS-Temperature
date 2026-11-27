@@ -2,6 +2,7 @@
   <v1.6>
     <li>/</li>
     <li>Common</li>
+    <li IfModActive="cruesoe.progressionlessfurniture">Common/Mods and Shit/ProgressionLESS Furniture</li>
     <li IfModActive="Dubwise.DubsBadHygiene">Common/Mods and Shit/Dubs Hygiene</li>
     <li IfModActive="OskarPotocki.VFE.Classical">Common/Mods and Shit/VFE Classical</li>
     <li IfModActive="rebuild.cotr.doorsandcorners">Common/Mods and Shit/Rebuild DAC</li>
@@ -13,6 +14,7 @@
   <v1.7>
     <li>/</li>
     <li>Common</li>
+    <li IfModActive="cruesoe.progressionlessfurniture">Common/Mods and Shit/ProgressionLESS Furniture</li>
     <li IfModActive="Dubwise.DubsBadHygiene">Common/Mods and Shit/Dubs Hygiene</li>
     <li IfModActive="OskarPotocki.VFE.Classical">Common/Mods and Shit/VFE Classical</li>
     <li IfModActive="rebuild.cotr.doorsandcorners">Common/Mods and Shit/Rebuild DAC</li>
